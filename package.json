@@ -1,0 +1,24 @@
+{
+  "name": "node-kobold-api",
+  "version": "1.0.0",
+  "description": "Vorwerk Kobold API for VR300",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailsvb/node-kobold-api.git"
+  },
+  "keywords": [
+    "kobold",
+    "vorwerk",
+    "VR300"
+  ],
+  "author": "Sven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mailsvb/node-kobold-api/issues"
+  },
+  "homepage": "https://github.com/mailsvb/node-kobold-api#readme"
+}
