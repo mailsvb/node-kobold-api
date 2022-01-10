@@ -15,7 +15,11 @@
     "vorwerk",
     "VR300"
   ],
-  "author": "Sven",
+  "author": {
+    "name": "Sven",
+    "email": "mailsvb@gmail.com",
+    "url": "https://github.com/mailsvb"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mailsvb/node-kobold-api/issues"
